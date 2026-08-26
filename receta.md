@@ -10,3 +10,5 @@
 - Mezclar con el agua y el azucar.
 - Servir fria.
 
+## Variacion
+- Menta: 6 hojas
